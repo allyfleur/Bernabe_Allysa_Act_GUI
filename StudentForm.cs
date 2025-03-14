@@ -17,16 +17,16 @@ namespace Bernabe_Allysa_Act_GUI
         {
             InitializeComponent();
             // Mock Student Data
-            StudentNameLabel.Text = "John Nelson Aquino";
-            StudentAgeLabel.Text = "24";
-            StudentAddressLabel.Text = "123 Main Street";
-            StudentContactLabel.Text = "09123456789";
-            StudentEmailLabel.Text = "email@sample.com";
+            StudentNameLabel.Text = "Allysa Marie C. Bernabe";
+            StudentAgeLabel.Text = "21";
+            StudentAddressLabel.Text = "San Juan, Alcala";
+            StudentContactLabel.Text = "09158682440";
+            StudentEmailLabel.Text = "email@unique.com";
             StudentCourseYearLabel.Text = "BSIT Third";
-            ParentNameLabel.Text = "Gina Aquino";
-            ParentContactLabel.Text = "09123456789";
-            HobbiesLabel.Text = "Programming, Gaming";
-            NicknameLabel.Text = "JN";
+            ParentNameLabel.Text = "Shirley Bernabe";
+            ParentContactLabel.Text = "09497885810";
+            HobbiesLabel.Text = "Reading, Singing";
+            NicknameLabel.Text = "Ally";
         }
 
         private void AddImageBtn_Click(object sender, EventArgs e)
