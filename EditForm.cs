@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Aquino_JohnNelson_Act_GUI
+namespace Bernabe_Allysa_Act_GUI
 {
     public partial class EditForm : Form
     {
