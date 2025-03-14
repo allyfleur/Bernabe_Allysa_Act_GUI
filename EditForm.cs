@@ -48,17 +48,17 @@ namespace Bernabe_Allysa_Act_GUI
             // Mock implementation - replace with actual data retrieval logic
             return new UserProfile
             {
-                Name = "John Nelson Aquino",
-                Age = 24,
-                Address = "123 Main Street",
-                ContactNumber = "09123456789",
-                Email = "email@sample.co",
+                Name = "Bernabe Allysa Marie",
+                Age = 21,
+                Address = "San Juan, Alcala",
+                ContactNumber = "09158682440",
+                Email = "email@unique.co",
                 Course = "BSIT",
                 Year = "Third",
-                ParentName = "Gina Aquino",
-                ParentContact = "09123456789",
-                Hobbies = "Programming, Gaming",
-                Nickname = "JN"
+                ParentName = "Shirley Bernabe",
+                ParentContact = "09487885810",
+                Hobbies = "Reading, Singing",
+                Nickname = "Ally"
             };
         }
 
